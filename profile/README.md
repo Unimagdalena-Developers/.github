@@ -19,7 +19,9 @@ For this area we want give you the following pages for reforce your knowledge.
 - [Javascript Arrays - Metodos (map, filter, reduce, sort, etc.) - FaztWeb](https://youtu.be/qqR1enOceVg)
 - [Import y Export en Javascript (ES Modules) - FaztWeb](https://youtu.be/0t-Le4kdaMg)
 - [Javascript Async Await, Promesas y Callbacks - FaztWeb](https://youtu.be/Q3HtXuDEy5s)
+
 **Others importants channels**
+
 - [Dorian Designs (Focus in CSS)](https://www.youtube.com/c/DorianDesings)
 - [JonMircha (Focus in Fundamentals of HTML, CSS, JS VSCode, Git and the Terminal)](https://www.youtube.com/c/jonmircha)
 -  [Antonio Sarosi](https://www.youtube.com/c/AntonioSarosi)
