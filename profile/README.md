@@ -1,3 +1,6 @@
+# Technologies
+NodeJS, ReactJS, Python with FastAPI and Django, Java With Spring Boot, LoopBack4, ExpressJS, SQL, NOSQL, SCRUM, Git, GitHub and BitBucket. 
+
 # Guide for beginners
 Hello! we know, maybe you don't have any idea of how start in this world, so, we've prepared you some supporting materials.
 **Advice: Remember that you must know your focus area. Having said that...**
